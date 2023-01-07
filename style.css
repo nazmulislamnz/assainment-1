@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    
+}
+.size {
+    font-size: 40px;
+}
+.container {
+    color: #fff;
+}
+.btn-contac {
+    height: 50px;
+    border-radius: 5px;
+    background: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 35px;
+}
+.container {
+    background-image: url(/images/banner/banner3.png);
+    height: 780px;
+    width: 100%;
+}
+.banner{
+    padding: 220px 40px;
+}
+.banner-title {
+        font-size: 600;
+        font-size: 45px;
+        color: white;
+}
+.banner-title2 {
+        margin-top: 12px;
+        color: white;
+        font-size: 14px;
+        margin-bottom: 30px;
+}
+.nazmul {
+    height:590px;
+    height:600px;
+    margin-left:250px;
+}
+.details-nz {
+       text-align: left;
+       margin-left: 50px;
+       padding: 220px 0px;
+}
+.middile-nz {
+    display: flex;
+}
+.details-ns-2 {
+    font-size: 300;
+        font-size: 45px;
+        margin-bottom:15px;
+}
+.page-nz {
+    margin-top: 15px;
+}
+.container-plan {
+    display: flex;
+    gap:100px;
+    margin-left:400px;
+}
+.sect-title {
+    text-align: right;
+   right: 150px;
+}
+.bg-lol {
+    background: #151414;
+    padding: 100px 100px !important;
+     color: #fff;
+}
+.buton-ok {
+    align-items: center;
+        margin-top: 100px;
+        margin-left: 100px;
+}
+.con-nz {
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.usa {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.form-container {
+    height: 40px;
+    width: 230px;
+    padding-left: 20px;
+    background-color: #151414;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.end-btn {
+    margin-top: 20px;
+        background-color: 
+        #005FAC;
+      color: white;
+        padding: 13px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+}
+
+.bgmi {
+    background-color: whitesmoke;
+      padding: 100px 100px !important;
+}
+.nz-he {
+    margin-left: 550px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.ok-2nd {
+    margin-top: 10px;
+}
+.lol {
+    height:150px;
+         width:300px; 
+}
